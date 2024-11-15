@@ -1,0 +1,15 @@
+body {
+    background-color: #f4e1c1; /* Világos barna háttér */
+    color: #000000; /* Fekete betűk */
+    font-family: Arial, sans-serif; /* Betűtípus beállítása */
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #000000; /* Fekete szín a címsorokhoz */
+  }
+  
+  p {
+    line-height: 1.6; /* Kicsit növeli a bekezdések közötti távolságot */
+  }
